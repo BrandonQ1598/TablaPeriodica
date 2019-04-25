@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tabla Periodica</string>
+    <string name="hint">Escribe el nombre de un elemento o su simbolo</string>
+</resources>
+
